@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.MeWorld.CSharp.Plugins", "UnityVS.MeWorld.CSharp.Plugins.csproj", "{4488A2C7-1483-86DF-3925-FD4750F6CDFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.MeWorld.CSharp", "UnityVS.MeWorld.CSharp.csproj", "{2CE59412-B5FF-304C-7B53-1A93BDC99DEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.MeWorld.CSharp.Editor.Plugins", "UnityVS.MeWorld.CSharp.Editor.Plugins.csproj", "{81E93E31-B1A9-51FD-C556-7226B64E9950}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.MeWorld.CSharp.Editor", "UnityVS.MeWorld.CSharp.Editor.csproj", "{CA97DA4D-842F-B17F-7C22-C599E01085EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4488A2C7-1483-86DF-3925-FD4750F6CDFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4488A2C7-1483-86DF-3925-FD4750F6CDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4488A2C7-1483-86DF-3925-FD4750F6CDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4488A2C7-1483-86DF-3925-FD4750F6CDFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CE59412-B5FF-304C-7B53-1A93BDC99DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE59412-B5FF-304C-7B53-1A93BDC99DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE59412-B5FF-304C-7B53-1A93BDC99DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE59412-B5FF-304C-7B53-1A93BDC99DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81E93E31-B1A9-51FD-C556-7226B64E9950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E93E31-B1A9-51FD-C556-7226B64E9950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E93E31-B1A9-51FD-C556-7226B64E9950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E93E31-B1A9-51FD-C556-7226B64E9950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA97DA4D-842F-B17F-7C22-C599E01085EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA97DA4D-842F-B17F-7C22-C599E01085EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA97DA4D-842F-B17F-7C22-C599E01085EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA97DA4D-842F-B17F-7C22-C599E01085EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

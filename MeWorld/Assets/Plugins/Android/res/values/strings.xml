@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">i立方</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="welcome_usres">欢迎来到我的世界！</string>
+    <string name="description">null</string>
+    
+    <string name="return_last">返回</string>
+    <string name="enter">进入</string>
+    <string name="switch_setting">设置</string>
+    <string name="switch_music">音乐</string>
+    <string name="switch_music_eff">音效</string>
+    <string name="switch_forgen">雾化</string>
+    <string name="control_sensitivity">操控灵敏度</string>
+    
+    <string name="archive_preview_title">信息&#160;</string>
+    <string name="archive_preview_time">存档时间&#160;</string>
+    <string name="archive_preview_duration">花费时间&#160;</string>
+    <string name="archive_preview_preview">预览</string>
+    
+    <string name="title_activity_game_view">GameViewActivity</string>
+    <string name="title_activity_preview">PreviewActivity</string>
+    <string name="title_activity_mywork">MyworldActivity</string>
+    <string name="info">信息</string>
+    <string name="complete_time">完成时间:</string>
+    <string name="expend_time">花费时间:</string>
+    <string name="print_time">打印次数:</string>
+    <string name="pre_print">订单</string>
+    <string name="pre_detail">详情</string>
+    <string name="pre_return">返回</string>
+    <string name="pre_share">分享</string>
+    
+    <string name="mywork_name">作品名称：xxxxx</string>
+    <string name="mywork_completetime">完成时间：xxxxx</string>
+    <string name="mywork_printtimes">打印次数：xxxxx</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="size">
+        <item>大</item>
+        <item>小</item>
+    </string-array>
+    <string-array name="materail">
+        <item>塑料</item>
+    </string-array>
+</resources>

@@ -1,0 +1,54 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+     <dimen name="px3">2px</dimen>
+    <dimen name="px10">5px</dimen>
+    <dimen name="px20">10px</dimen>
+    <dimen name="px40">1px</dimen>
+    <dimen name="px44">22px</dimen>
+    <dimen name="px60">10px</dimen>
+    <dimen name="px64">32px</dimen>
+    <dimen name="px70">35px</dimen>
+    <dimen name="px80">40px</dimen>
+    <dimen name="px100.1">-50px</dimen>
+    <dimen name="px120">60px</dimen>
+    <dimen name="px160">80px</dimen>
+    <dimen name="px200">100px</dimen>
+    <dimen name="px320">160px</dimen>
+    <dimen name="px400">200px</dimen>
+    <dimen name="px520">260px</dimen>
+    <dimen name="px640">320px</dimen>
+    <dimen name="px800">400px</dimen>
+    <dimen name="px836">418px</dimen>
+    <dimen name="px1000">500px</dimen>
+    <dimen name="px1200">600px</dimen>
+    <dimen name="px1280">640px</dimen>
+
+     <dimen name="ps20">16sp</dimen>
+     <dimen name="ps22">18sp</dimen>
+     <dimen name="ps24">20sp</dimen>
+     
+     <dimen name="px1480">740px</dimen>
+     <dimen name="px936">450px</dimen>
+     <dimen name="px500">250px</dimen>
+     <dimen name="px480">240px</dimen>
+     <dimen name="px85">42px</dimen>
+     <dimen name="px97">49px</dimen>
+     <dimen name="px100">50px</dimen>
+     <dimen name="px300">150px</dimen>
+      <dimen name="px516">256px</dimen>
+     <dimen name="px360">180px</dimen>
+     <dimen name="px50">1px</dimen>
+     <dimen name="px51">25px</dimen>
+     <dimen name="px52">25px</dimen>
+     <dimen name="px53">25px</dimen>
+     <dimen name="px130.1">-65px</dimen>
+     <dimen name="px140">70px</dimen>
+     <dimen name="px1100">550px</dimen>
+     <dimen name="px1060">580px</dimen>
+     <dimen name="px30">15px</dimen>
+     <dimen name="px72">36px</dimen>
+</resources>
